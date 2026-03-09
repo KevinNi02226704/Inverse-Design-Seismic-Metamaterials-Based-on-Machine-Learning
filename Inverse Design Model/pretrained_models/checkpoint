@@ -1,0 +1,2 @@
+model_checkpoint_path: "pretrained_forward_modeling_network_for_in_plane_waves_t.ckpt"
+all_model_checkpoint_paths: "pretrained_forward_modeling_network_for_in_plane_waves_t.ckpt"
